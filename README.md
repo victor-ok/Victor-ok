@@ -4,3 +4,5 @@
 * 🌱 I’m currently learning and transitioning into DevOps and Cloud Engineering.
 * 🤝 I’m looking to collaborate on open-source projects
 * ⚡ Fun fact: I never stop learning
+
+<img src="https://komarev.com/ghpvc/?username=victor-ok&style=flat-square&color=blue" alt=""/>
