@@ -9,3 +9,6 @@
 ### :fire: My Stats :
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-ok&theme=dark&hide_border=true)](https://git.io/streak-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-ok&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
