@@ -4,7 +4,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/monarene/monarene/master/fineBoy.jpeg" width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@monnarene-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monnarene)](https://twitter.com/monnarene) [![Linkedin Badge](https://img.shields.io/badge/-MichaelMekuleyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/monarene/) [![Gmail Badge](https://img.shields.io/badge/-mekuleyimichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mekuleyimichael@gmail.com)](mailto:mekuleyimichael@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@victorOK_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/victorOK_)](https://twitter.com/victorOK_) [![Linkedin Badge](https://img.shields.io/badge/-victorokafor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorokafor/)](https://www.linkedin.com/in/victorokafor/) [![Gmail Badge](https://img.shields.io/badge/-vua.okafor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vua.okaforl@gmail.com)](mailto:vua.okafor@gmail.com)
 
 - Hello, I am Victor Okafor. Software/Cloud/DevOps Engineer 🧑🏾‍💻 with over 4 years of combined software experience in general. I am continuously learning/working with/building on OpenSource tools with an Agile Mindset. I am Proficient in the twelve-factor methodology and employ it in every way possible. 
 
