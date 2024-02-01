@@ -27,8 +27,6 @@
 
 ---
 
----
-
 
 ## 🔭 I’m currently working on
 - Building Cloud Native applications with Kubernetes and Docker
@@ -37,6 +35,19 @@
 
 ## 🌱 I’m currently learning
 - Advanced concepts in networking for Cloud environments
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#3779](https://github.com/hoppscotch/hoppscotch/pull/3779#issuecomment-1914210074) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 💪 Opened PR [#3780](https://github.com/hoppscotch/hoppscotch/pull/3780) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 💪 Opened PR [#3777](https://github.com/hoppscotch/hoppscotch/pull/3777) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#3554](https://github.com/hoppscotch/hoppscotch/issues/3554#issuecomment-1903553794) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🗣 Commented on [#3554](https://github.com/hoppscotch/hoppscotch/issues/3554#issuecomment-1899003863) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
+
 
 
 
